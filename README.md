@@ -38,7 +38,6 @@ me.say_hi()
 <div align="center">
 
 <!-- Social Links with Modern Styling -->
-[![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/a9ii)
 [![Email](https://img.shields.io/badge/Email-github@a9ii.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:github@a9ii.com)
 [![GitHub](https://img.shields.io/badge/GitHub-a9ii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a9ii)
 [![Profile Views](https://komarev.com/ghpvc/?username=a9ii&style=for-the-badge&color=0AA6A6&label=Profile+Views)](https://github.com/a9ii)
