@@ -1,9 +1,13 @@
-<!-- Profile README: github.com/a9ii -->
+<!--
+Profile README for: github.com/a9ii
+Style: clean + premium + recruiter-friendly + creative
+Notes: Uses Capsule Render + Readme Typing SVG + GitHub Readme Stats (see sources)
+-->
 
 <p align="center">
   <img
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    alt="Coding banner"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0AA6A6,100:0B1F3B&height=240&section=header&text=a9ii&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Telegram-first%20automation%20%26%20web%20tools%20%E2%80%94%20ship%20fast%2C%20ship%20clean&descAlignY=60"
+    alt="header"
     width="100%"
   />
 </p>
@@ -11,152 +15,159 @@
 <p align="center">
   <a href="https://github.com/a9ii">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+a9ii;I+build+Telegram+automation%2C+web+tools%2C+and+practical+utilities;Python+%7C+PHP+%7C+JavaScript;Clean+code+%7C+Fast+workflows+%7C+Real+projects"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+a9ii+%F0%9F%91%8B;Telegram-first+automation+%26+web+tools;Python+%7C+PHP+%7C+JavaScript+%7C+Linux;Vibe-coding+ideas+into+production+%E2%9A%A1"
       alt="Typing SVG"
     />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/a9ii?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View-111?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:github@a9ii.com">
+    <img src="https://img.shields.io/badge/Email-github%40a9ii.com-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/a9ii">
-    <img src="https://img.shields.io/badge/Profile-a9ii-111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-a9ii-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=a9ii&style=for-the-badge&label=Profile%20Views" />
+  <img src="https://komarev.com/ghpvc/?username=a9ii&style=for-the-badge&label=Profile%20Views" alt="views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vibe%20Coding-AI--assisted%20iteration-111?style=for-the-badge&logo=openai&logoColor=white" alt="Vibe Coding" />
+  <img src="https://img.shields.io/badge/Focus-Telegram%20Bots%20%26%20Automation-111?style=for-the-badge&logo=telegram&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Obsessed%20With-UX%20%7C%20Reliability%20%7C%20Performance-111?style=for-the-badge" alt="Principles" />
 </p>
 
 ---
 
-## About
+## 👋 Who I am
 
-I am a developer focused on building practical tools with a strong emphasis on:
-- Telegram automation and bots
-- Small web utilities that solve real problems
-- Clean structure, stable behavior, and simple UX
+I build **Telegram-first automation** and **web utilities** that feel *fast*, *clean*, and *production-minded*.
 
-I enjoy turning ideas into working products, iterating fast, and keeping projects maintainable.
+- ⚙️ **Bots & automation:** admin panels, schedulers, pipelines, background jobs
+- 📥 **Downloaders & media tooling:** yt-dlp + FFmpeg workflows, smart sizing & formats
+- 🌐 **Web utilities:** lightweight tools that solve real problems with minimal friction
+- 🧩 **Integrations:** APIs, webhooks, storage, caching, retries, observability
 
 ---
 
-## Tech Stack
+## ⚡ Vibe Coding (how I ship)
 
-<p align="left">
+I use an **AI-assisted workflow** to move from idea → prototype → production quickly:
+
+- **Rapid iterations:** explore multiple approaches in minutes, then keep the best path  
+- **Tight feedback loop:** test → measure → refactor → ship  
+- **Production mindset:** logging, retries, rate-limits, edge-cases, clear UX  
+- **Code stays mine:** I treat AI as a co-pilot, then **review + harden** the final implementation
+
+---
+
+## 🧪 Animated terminal (README demo)
+
+<p align="center">
+  <a href="https://github.com/a9ii">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=700&color=0AA6A6&center=true&vCenter=true&multiline=true&width=900&height=140&lines=%24+git+clone+https%3A%2F%2Fgithub.com%2Fa9ii%2FA9iiBot;%24+python+-m+pip+install+-r+requirements.txt;%24+python+bot.py+--help;%E2%9C%94+ready%3A+download+%E2%86%92+downscale+%E2%86%92+send+%28Telegram-safe%29"
+      alt="terminal"
+    />
+  </a>
+</p>
+
+<details>
+  <summary><b>Want a real terminal replay (SVG) instead of typing?</b></summary>
+
+  Use a terminal-to-SVG recorder (example: <code>svg-term-cli</code>) to generate an animated SVG you can commit to <code>/assets</code> and embed here.
+
+  - Record with asciinema (or a local cast)  
+  - Convert cast → SVG and embed as:  
+    <code>&lt;img src="assets/demo.svg" /&gt;</code>
+
+</details>
+
+---
+
+## 🧰 Tech stack
+
+<p>
   <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram%20Bots-111?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFmpeg-111?style=for-the-badge&logo=ffmpeg&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-Optional icon row:
-<p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,linux,git,github&perline=12" alt="skills" />
-</p>
+---
+
+## 🚀 Featured projects
+
+<p><i>Active work I’m proud of (clean UX + practical value).</i></p>
+
+### ⏳ `count` — Telegram Countdown Message Manager
+A professional **countdown message system** for Telegram channels with an **interactive admin panel**, automatic updates, and native Telegram formatting — ideal for exams, events, and important dates.  
+🔗 Repo: https://github.com/a9ii/count
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a9ii&repo=count&theme=transparent)](https://github.com/a9ii/count)
 
 ---
 
-## Latest Projects
+### 📥 `A9iiBot` — Multi‑Platform Telegram Media Downloader
+A high-performance Telegram bot that downloads **video/audio** from multiple platforms with **smart quality selection** (auto‑downscale to fit Telegram limits), progress tracking, cookies support, and audio extraction with metadata — built around **yt-dlp + FFmpeg**.  
+🔗 Repo: https://github.com/a9ii/A9iiBot
 
-If cards do not load sometimes, scroll down for direct links.
-
-### count - Telegram Countdown Utility
-A lightweight project to create and manage countdown style experiences for Telegram use cases.
-- Great for announcements, events, and date based reminders
-- Built to be simple and easy to deploy
-
-Repo: https://github.com/a9ii/count
-
-[![count](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=a9ii&repo=count&show_owner=true&hide_border=true)](https://github.com/a9ii/count)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a9ii&repo=A9iiBot&theme=transparent)](https://github.com/a9ii/A9iiBot)
 
 ---
 
-### A9iiBot - Telegram Media Utility Bot
-A Telegram bot project designed around media utilities and automation workflows.
-- Focus on practicality and smooth user flow
-- Built to be extendable and maintainable
+### 🧠 `BackUP` — Smart FileWatch Backup Bot (Telegram)
+A server-side Telegram bot for **real-time file/folder monitoring**: instant change alerts, optional direct file sending, advanced exclude rules (glob/regex), analytics & reporting, and admin controls — built for developers & sysadmins.  
+🔗 Repo: https://github.com/a9ii/BackUP
 
-Repo: https://github.com/a9ii/A9iiBot
-
-[![A9iiBot](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=a9ii&repo=A9iiBot&show_owner=true&hide_border=true)](https://github.com/a9ii/A9iiBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a9ii&repo=BackUP&theme=transparent)](https://github.com/a9ii/BackUP)
 
 ---
 
-### BackUP - Backup and Monitoring Utility
-A utility focused on backup related workflows and monitoring friendly automation.
-- Useful as a base for server side backup routines
-- Designed to be straightforward and reliable
-
-Repo: https://github.com/a9ii/BackUP
-
-[![BackUP](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=a9ii&repo=BackUP&show_owner=true&hide_border=true)](https://github.com/a9ii/BackUP)
-
----
-
-## GitHub Analytics
+## 📈 GitHub analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=a9ii&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
-    height="165"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=a9ii&hide_border=true"
-    height="165"
-    alt="GitHub streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=a9ii&show_icons=true&rank_icon=github&theme=transparent" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a9ii&theme=transparent" height="165" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=a9ii&layout=compact&hide_border=true"
-    height="165"
-    alt="Top languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a9ii&layout=compact&theme=transparent" height="165" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=a9ii&no-frame=true&row=1&column=7"
-    alt="Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=a9ii&row=1&column=7&theme=flat" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=a9ii&hide_border=true"
-    alt="Activity graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a9ii&hide_border=true&bg_color=00000000" />
 </p>
 
 ---
 
-## Collaboration
+## 🤝 Collaboration
 
-Open to:
-- Telegram bots and automation
-- Web utilities and tooling
-- Improving existing projects
+I’m open to:
+- Improving Telegram bots (**performance, stability, UX**)
+- Shipping practical web tools
+- Contributions & real-world projects
 
-Best contact for now:
-- GitHub: https://github.com/a9ii
+📫 Reach me: **github@a9ii.com**
 
 ---
 
-Optional: Contribution snake (needs workflow)
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a9ii/a9ii/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a9ii/a9ii/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/a9ii/a9ii/output/github-snake.svg" />
-  </picture>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3B,100:0AA6A6&height=140&section=footer"
+    alt="footer"
+    width="100%"
+  />
 </p>
-
 
 <!--
-Optional: Contribution Snake (requires workflow below)
+Optional: Contribution Snake (requires a workflow)
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a9ii/a9ii/output/github-snake-dark.svg" />
@@ -165,15 +176,3 @@ Optional: Contribution Snake (requires workflow below)
   </picture>
 </p>
 -->
-
-<!---
-- 👋 Hi, I’m @a9ii
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... coding
-- 💞️ I’m looking to collaborate on ... JS
-- 📫 How to reach me ... github@a9ii.com
-
-
-a9ii/a9ii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
