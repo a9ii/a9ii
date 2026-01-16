@@ -1,7 +1,6 @@
 <!--
 Profile README for: github.com/a9ii
 Style: clean + premium + recruiter-friendly + creative
-Notes: Uses Capsule Render + Readme Typing SVG + GitHub Readme Stats (see sources)
 -->
 
 <p align="center">
@@ -32,9 +31,10 @@ Notes: Uses Capsule Render + Readme Typing SVG + GitHub Readme Stats (see source
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vibe%20Coding-AI--assisted%20iteration-111?style=for-the-badge&logo=openai&logoColor=white" alt="Vibe Coding" />
+  <!-- Avoid logos that sometimes fail on Shields.io (keeps the badge always visible) -->
+  <img src="https://img.shields.io/badge/Vibe%20Coding-AI--assisted%20iteration-111?style=for-the-badge" alt="Vibe Coding" />
   <img src="https://img.shields.io/badge/Focus-Telegram%20Bots%20%26%20Automation-111?style=for-the-badge&logo=telegram&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Obsessed%20With-UX%20%7C%20Reliability%20%7C%20Performance-111?style=for-the-badge" alt="Principles" />
+  <img src="https://img.shields.io/badge/Principles-UX%20%7C%20Reliability%20%7C%20Performance-111?style=for-the-badge" alt="Principles" />
 </p>
 
 ---
@@ -43,21 +43,21 @@ Notes: Uses Capsule Render + Readme Typing SVG + GitHub Readme Stats (see source
 
 I build **Telegram-first automation** and **web utilities** that feel *fast*, *clean*, and *production-minded*.
 
-- ⚙️ **Bots & automation:** admin panels, schedulers, pipelines, background jobs
-- 📥 **Downloaders & media tooling:** yt-dlp + FFmpeg workflows, smart sizing & formats
-- 🌐 **Web utilities:** lightweight tools that solve real problems with minimal friction
-- 🧩 **Integrations:** APIs, webhooks, storage, caching, retries, observability
+- ⚙️ **Bots & automation:** admin panels, schedulers, pipelines, background jobs  
+- 📥 **Downloaders & media tooling:** yt-dlp + FFmpeg workflows, smart sizing & formats  
+- 🌐 **Web utilities:** lightweight tools that solve real problems with minimal friction  
+- 🧩 **Integrations:** APIs, webhooks, storage, caching, retries, observability  
 
 ---
 
 ## ⚡ Vibe Coding (how I ship)
 
-I use an **AI-assisted workflow** to move from idea → prototype → production quickly:
+I use an **AI-assisted workflow** to go from idea → prototype → production quickly:
 
-- **Rapid iterations:** explore multiple approaches in minutes, then keep the best path  
+- **Rapid iterations:** explore multiple approaches fast, then keep the best path  
 - **Tight feedback loop:** test → measure → refactor → ship  
 - **Production mindset:** logging, retries, rate-limits, edge-cases, clear UX  
-- **Code stays mine:** I treat AI as a co-pilot, then **review + harden** the final implementation
+- **Code stays mine:** AI helps me move faster — I still **review + harden** the final build  
 
 ---
 
@@ -75,11 +75,9 @@ I use an **AI-assisted workflow** to move from idea → prototype → production
 <details>
   <summary><b>Want a real terminal replay (SVG) instead of typing?</b></summary>
 
-  Use a terminal-to-SVG recorder (example: <code>svg-term-cli</code>) to generate an animated SVG you can commit to <code>/assets</code> and embed here.
+  Record a terminal session (asciinema / cast) → convert to SVG → commit to <code>/assets</code> and embed:
 
-  - Record with asciinema (or a local cast)  
-  - Convert cast → SVG and embed as:  
-    <code>&lt;img src="assets/demo.svg" /&gt;</code>
+  <code>&lt;img src="assets/demo.svg" alt="terminal demo" /&gt;</code>
 
 </details>
 
@@ -106,7 +104,7 @@ I use an **AI-assisted workflow** to move from idea → prototype → production
 A professional **countdown message system** for Telegram channels with an **interactive admin panel**, automatic updates, and native Telegram formatting — ideal for exams, events, and important dates.  
 🔗 Repo: https://github.com/a9ii/count
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a9ii&repo=count&theme=transparent)](https://github.com/a9ii/count)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a9ii&repo=count&theme=transparent&hide_border=true)](https://github.com/a9ii/count)
 
 ---
 
@@ -114,7 +112,7 @@ A professional **countdown message system** for Telegram channels with an **inte
 A high-performance Telegram bot that downloads **video/audio** from multiple platforms with **smart quality selection** (auto‑downscale to fit Telegram limits), progress tracking, cookies support, and audio extraction with metadata — built around **yt-dlp + FFmpeg**.  
 🔗 Repo: https://github.com/a9ii/A9iiBot
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a9ii&repo=A9iiBot&theme=transparent)](https://github.com/a9ii/A9iiBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a9ii&repo=A9iiBot&theme=transparent&hide_border=true)](https://github.com/a9ii/A9iiBot)
 
 ---
 
@@ -122,27 +120,27 @@ A high-performance Telegram bot that downloads **video/audio** from multiple pla
 A server-side Telegram bot for **real-time file/folder monitoring**: instant change alerts, optional direct file sending, advanced exclude rules (glob/regex), analytics & reporting, and admin controls — built for developers & sysadmins.  
 🔗 Repo: https://github.com/a9ii/BackUP
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a9ii&repo=BackUP&theme=transparent)](https://github.com/a9ii/BackUP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a9ii&repo=BackUP&theme=transparent&hide_border=true)](https://github.com/a9ii/BackUP)
 
 ---
 
 ## 📈 GitHub analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a9ii&show_icons=true&rank_icon=github&theme=transparent" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a9ii&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=a9ii&show_icons=true&rank_icon=github&theme=transparent&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=a9ii&theme=transparent&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a9ii&layout=compact&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a9ii&layout=compact&theme=transparent&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=a9ii&row=1&column=7&theme=flat" />
+  <img src="https://github-profile-trophy.vercel.app/?username=a9ii&row=1&column=7&no-frame=true&no-bg=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a9ii&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a9ii&theme=github-compact&hide_border=true" />
 </p>
 
 ---
