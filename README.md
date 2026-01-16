@@ -239,15 +239,7 @@ Explore my other repositories for more automation tools, web utilities, and Tele
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a9ii/a9ii/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a9ii/a9ii/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/a9ii/a9ii/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a9ii/a9ii/output/github-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a9ii/a9ii/output/github-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/a9ii/a9ii/output/github-snake-dark.svg"> </picture> </div>
 
 ---
 
